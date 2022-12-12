@@ -1,0 +1,27 @@
+
+
+
+.Navbar{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.Navbar button{
+    background-color: blue;
+    padding: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    border: none;
+    
+}
+.Navbar button:hover{
+    background-color: rgb(231, 217, 217);
+    opacity: 0.9;
+    
+}
